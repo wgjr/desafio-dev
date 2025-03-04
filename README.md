@@ -87,16 +87,35 @@ Boa sorte!
 
 ---
 
-# Executando o projeto
+# Running the Project
+To run the project, follow the steps below:
 
-Execute o docker na raiz do projeto: docker-compose up --build
+Start the project with Docker:
 
+## Run the following command at the root of the project to build and start the containers:
 
-Para acessar o frontend: http://localhost:3000/
+### docker-compose up --build
 
-Para acessar o backend: http://localhost:3030
+Access the Frontend:
 
-Documentação da API: https://ggakj2hmw2.apidog.io
+Open your browser and go to:
 
+http://localhost:3000/
 
-Executar tessts: npm run test
+Access the Backend:
+
+The backend can be accessed at:
+
+http://localhost:3030
+
+## API Documentation:
+
+The API documentation is available at:
+
+https://ggakj2hmw2.apidog.io
+
+## Run Tests:
+
+To run the tests, use the following command:
+
+npm run test
