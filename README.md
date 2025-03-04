@@ -83,3 +83,20 @@ Este desafio foi baseado neste outro desafio: https://github.com/lschallenges/da
 ---
 
 Boa sorte!
+
+
+---
+
+# Executando o projeto
+
+Execute o docker na raiz do projeto: docker-compose up --build
+
+
+Para acessar o frontend: http://localhost:3000/
+
+Para acessar o backend: http://localhost:3030
+
+Documentação da API: https://ggakj2hmw2.apidog.io
+
+
+Executar tessts: npm run test
